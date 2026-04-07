@@ -185,4 +185,7 @@ MIT
 
 ---
 
+> New to Docker or local AI tools? Start with the **[Getting Started Guide](GETTING-STARTED.md)** — no technical background needed.
+ 
+---
 *Built by a Senior Security Engineer who got tired of seeing local AI setups with zero hardening.*
